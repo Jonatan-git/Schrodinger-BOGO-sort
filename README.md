@@ -25,3 +25,7 @@ from schrodinger_bogo_sort import schrodinger_bogo_sort
 arr = [5, 2, 4, 1]
 sorted_arr = schrodinger_bogo_sort(arr)
 print(\"Sorted array:\", sorted_arr)
+
+
+
+i do not make this one my self, cause who tf even make this one just for bunch of shit. i use AI for ts🥀
